@@ -10,3 +10,5 @@ This model uses Sequence-to-Sequence Attention Mechanism to Traverse the Tree
 
 ## To do inference
 ### run python inference.py
+
+#### I would recommend to read this blog post on attention model https://wanasit.github.io/attention-based-sequence-to-sequence-in-keras.html
